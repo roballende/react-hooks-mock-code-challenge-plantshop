@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Unattractive Cheeto",
+      "image": "https://ih1.redbubble.net/image.1085997606.0308/pp,840x830-pad,1000x1000,f8f8f8.jpg",
+      "price": "0.01",
+      "id": 8
+    },
+    {
+      "name": "Unattractive Cheeto",
+      "image": "https://ih1.redbubble.net/image.1085997606.0308/pp,840x830-pad,1000x1000,f8f8f8.jpg",
+      "price": "0.01",
+      "id": 9
     }
   ]
 }
